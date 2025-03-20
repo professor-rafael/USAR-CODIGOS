@@ -1,3 +1,5 @@
+## ATENÇÃO O CÓDIGO ABAIXO DEVE SER COLADO DENTRO DO MAIN.YML
+
 name: generate animation
 
 on:
@@ -13,8 +15,7 @@ on:
     branches:
     - master
     
-  
-## ATENÇÃO O CÓDIGO ABAIXO DEVE SER COLADO DENTRO DO MAIN.YML
+
 
 
 jobs:
